@@ -12,6 +12,6 @@
 
 ---
 
-![Snapshot-1](snap-shot/Screenshot-1.png)
+![Snapshot-1](/screenshots/Screenshot-1.png)
 
-![Snapshot-2](snap-shot/Screenshot-2.png)
+![Snapshot-2](/screenshots/Screenshot-2.png)
