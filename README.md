@@ -12,6 +12,6 @@
 
 ---
 
-![Snapshot-1](<snap-shot/Screenshot 2023-07-19 111154.png>)
+![Snapshot-1](snap-shot/Screenshot-1.png)
 
-![Snapshot-2](<snap-shot/Screenshot 2023-07-19 111212.png>)
+![Snapshot-2](snap-shot/Screenshot-2.png)
